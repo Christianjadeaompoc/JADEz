@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+int main(){
+
+int array[]={1, 2, 3, 4, 5};
+
+printf("untag %d akong grados ITE CUTIE", array[0]);
+
+return 0;
+}
