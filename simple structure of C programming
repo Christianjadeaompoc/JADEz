@@ -1,0 +1,5 @@
+#include<stdio.h>
+ int main(){
+printf("Ako diay ni si dodoy");
+return 0;
+}
